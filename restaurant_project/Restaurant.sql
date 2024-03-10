@@ -1,0 +1,2 @@
+create database Restaurant_Management;
+use Restaurant_Management;
